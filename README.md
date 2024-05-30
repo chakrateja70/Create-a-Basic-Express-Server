@@ -11,4 +11,4 @@
 #Task 2:- 
 2.Create API Endpoints with All HTTP Methods 
   .Modifyinf the server.js to include routes for all HTTP methods 
-    (GET, POST, PUT, DELETE, PATCH, OPTIONS, HEAD)
+    (GET, POST, PUT, DELETE, PATCH)
