@@ -1,0 +1,13 @@
+GET http://localhost/get
+
+###
+POST http://localhost/api/resource
+
+###
+PUT http://localhost/resources/2
+
+###
+PATCH http://localhost/resources/4
+
+###
+DELETE http://localhost/resources/1
